@@ -1,0 +1,1 @@
+docker run --network host metabase-local
